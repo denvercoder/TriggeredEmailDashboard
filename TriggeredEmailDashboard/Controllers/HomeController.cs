@@ -10,6 +10,7 @@ namespace TriggeredEmailDashboard.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
 
